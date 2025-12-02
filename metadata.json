@@ -1,0 +1,7 @@
+{
+  "name": "Nova Digital Bank",
+  "description": "Bangladesh's first youth-driven, 100% digital, branchless bank backed by VEON and Square Group.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
